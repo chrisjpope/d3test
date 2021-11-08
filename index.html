@@ -14,7 +14,7 @@ var simulation = d3.forceSimulation()
     .force("charge", d3.forceManyBody())
     .force("center", d3.forceCenter());
 
-d3.json("testdata.json", function(error, graph) {
+d3.json("d3test.json", function(error, graph) {
   if (error) throw error;
 
   simulation

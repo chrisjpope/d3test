@@ -1,10 +1,10 @@
 {
   "nodes": [
-    {"id": "Ability Net Volunteers", "group": "Projects"},
-{"id": "African and Caribbean Digital Community Connections", "group": "Projects"},
-{"id": "Back together again: live & digital", "group": "Projects"},
-{"id": "Better Health Outcomes", "group": "Projects"},
-{"id": "Cheeky Monkey Go Online", "group": "Projects"},
+    {"id": "Ability Net Volunteers", "group": 1},
+{"id": "African and Caribbean Digital Community Connections", "group": 1},
+{"id": "Back together again: live & digital", "group": 1},
+{"id": "Better Health Outcomes", "group": 1},
+{"id": "Cheeky Monkey Go Online", "group": 1},
 {"id": "Chrome IT in Old Trafford", "group": "Projects"},
 {"id": "Classroom in a box", "group": "Projects"},
 {"id": "Community Calling Programme", "group": "Projects"},

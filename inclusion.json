@@ -1,16 +1,16 @@
 {
   "nodes": [
-    {"id": "Ability Net", "group": 1},
-    {"id": "Bolton", "group": 2},
-    {"id": "Bury", "group": 2},
-    {"id": "Manchester", "group": 2},
-    {"id": "Oldham", "group": 2},
-    {"id": "Rochdale", "group": 2},
-    {"id": "Salford", "group": 2},
-    {"id": "Stockport", "group": 2},
-    {"id": "Tameside", "group": 2},
-    {"id": "Trafford", "group": 2},
-    {"id": "Wigan", "group": 2}    
+    {"id": "Ability Net", "group": "Project"},
+    {"id": "Bolton", "group": "District"},
+    {"id": "Bury", "group": "District"},
+    {"id": "Manchester", "group": "District"},
+    {"id": "Oldham", "group": "District"},
+    {"id": "Rochdale", "group": "District"},
+    {"id": "Salford", "group": "District"},
+    {"id": "Stockport", "group": "District"},
+    {"id": "Tameside", "group": "District"},
+    {"id": "Trafford", "group": "District"},
+    {"id": "Wigan", "group": "District"}    
   ],
   "links": [
     {"source": "Ability Net", "target": "Bolton", "value": 1},

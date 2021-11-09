@@ -1,10 +1,10 @@
 {
   "nodes": [
     {"id": "Ability Net Volunteers", "group": 1},
-{"id": "African and Caribbean Digital Community Connections", "group": 1},
-{"id": "Back together again: live & digital", "group": 1},
-{"id": "Better Health Outcomes", "group": 1},
-{"id": "Cheeky Monkey Go Online", "group": 1},
+    {"id": "African and Caribbean Digital Community Connections", "group": 1},
+    {"id": "Back together again: live & digital", "group": 1},
+    {"id": "Better Health Outcomes", "group": 1},
+    {"id": "Cheeky Monkey Go Online", "group": 1},
 {"id": "Chrome IT in Old Trafford", "group": "Projects"},
 {"id": "Classroom in a box", "group": "Projects"},
 {"id": "Community Calling Programme", "group": "Projects"},
@@ -345,7 +345,7 @@
 {"id": "Stockport", "group": "Districts"},
 {"id": "Tameside", "group": "Districts"},
 {"id": "Trafford", "group": "Districts"},
-{"id": "Wigan", "group": "Districts"},
+{"id": "Wigan", "group": "Districts"}
 ],
   "links": [
     {"source": "Ability Net", "target": "Bolton", "value": 1},
@@ -1097,6 +1097,6 @@
 {"source": "Yemeni Community Association", "target": "Salford", "value": 1},
 {"source": "Young Digital Savvy Champions", "target": "TUF*C", "value": 1},
 {"source": "Young Digital Savvy Champions", "target": "Trafford", "value": 1},
-{"source": "The ‘Face to Face’ Project", "target": "G Force", "value": 1},
+{"source": "The ‘Face to Face’ Project", "target": "G Force", "value": 1}
 ]
 }

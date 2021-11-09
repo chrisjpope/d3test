@@ -1,6 +1,7 @@
 {
   "nodes": [
-    {"id": "Ability Net", "group": "Project"},
+    {"id": "Ability Net", "group": "Organisation"},
+    {"id": "Ability Net Volunteers", "group": "Project"},
     {"id": "Bolton", "group": "District"},
     {"id": "Bury", "group": "District"},
     {"id": "Manchester", "group": "District"},
@@ -22,6 +23,17 @@
     {"source": "Ability Net", "target": "Stockport", "value": 1},
     {"source": "Ability Net", "target": "Tameside", "value": 1},
     {"source": "Ability Net", "target": "Trafford", "value": 2},
-    {"source": "Ability Net", "target": "Wigan", "value": 1}
+    {"source": "Ability Net", "target": "Wigan", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Bolton", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Bury", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Manchester", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Oldham", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Salford", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Stockport", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Tameside", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Rochdale", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Trafford", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Wigan", "value": 1},
+    {"source": "Ability Net Volunteers", "target": "Ability Net", "value": 1}
   ]
 }
